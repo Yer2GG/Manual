@@ -1,0 +1,30 @@
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;}
+
+.title{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-style:italic;   
+font-size: xx-large;
+font-weight: 300; }
+
+.img{
+    margin:10%}
+
+.link{
+font-style: oblique;}
+
+li{
+text-align: center;}
+
+p{
+    text-align: center;}
+
+h3{ 
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration-line: overline;
+    text-decoration-line: underline;
+    color: rgb(255, 94, 0);}
